@@ -1,5 +1,15 @@
 # Clover-control-system
+### (In development)
+
 Ready functions to control Clover (COEX), including some CV algorithms.  
 Can be used in simulation and real flight
 
-(In development)
+Tested on:
+- Xubuntu 20.04.1 LTS (Focal Fossa)
+- Ros Noetic
+- Gazebo 11.12.0
+
+## Planned Features:
+- Movement and navigation 
+- Detecting objects
+- RViz visualisation 
